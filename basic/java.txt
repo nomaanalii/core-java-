@@ -1,0 +1,6 @@
+What is java ?
+java is 
+high level programming language which is ( highlevel means it is easy to understand for humans )
+secured ( it is secured because of the sandbox and absence of pointers )
+object oriented and ( all the things are classfied into clas and objects )
+robust ( strong memory allocation due to garbage )
