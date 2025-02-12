@@ -1,0 +1,8 @@
+public class Assigmentps6 {
+    public static void main(String[] args) {
+        int a []= {12,67,46,435,67,385,335,335,34};
+        
+        System.out.println(a[0]);
+        System.out.println(a[a.length-1]);
+}
+}
